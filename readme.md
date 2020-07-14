@@ -1,4 +1,4 @@
-﻿ the# Face Mask Detection using Mask R-CNN with Supervise.ly for data Management
+﻿ # Face Mask Detection using Mask R-CNN with Supervise.ly for data Management
 In this repo, I have developed a Face mask detection model using mask R-CNN. In machine model, we needed dataset, and it is tough to manage all data, specially when it is image data set. There are plenty of pre-processing operation that we need to do. Some of them are:- create classes of object we are searching for, Augmentation of Image dataset( if we have less dataset).
 For Data Management, we will use supervise.ly. It is a simple tool to work with. And do most of the pre-processing work in no time and less effort.
 
